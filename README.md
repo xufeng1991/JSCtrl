@@ -1,4 +1,4 @@
-Qt-SDL-Joystick
-===============
+JSCtrl
+======
 
 forked from hhrhhr/Qt-SDL-Joystick
